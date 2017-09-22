@@ -75,7 +75,7 @@
 		<link rel="stylesheet" type="text/css" href="dist/opensourcepos.min.css?rel=84371241b2"/>
 		<!-- end mincss template tags -->
 		<!-- start minjs template tags -->
-		<script type="text/javascript" src="dist/opensourcepos.min.js?rel=c206fd4a9f"></script>
+		<script type="text/javascript" src="dist/opensourcepos.min.js?rel=d261c92f4f"></script>
 		<!-- end minjs template tags -->
 	<?php endif; ?>
 
@@ -118,7 +118,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-			
+
 					<a class="navbar-brand hidden-sm" href="<?php echo site_url(); ?>">OSPOS</a>
 				</div>
 
@@ -139,4 +139,4 @@
 
 		<div class="container">
 			<div class="row">
-	 
+
