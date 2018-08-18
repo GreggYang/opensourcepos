@@ -61,7 +61,7 @@ class Item_kit extends CI_Model
 		kit_discount_percent,
 		price_option,
 		print_option,
-		category, 
+		category,
 		supplier_id,
 		item_number,
 		cost_price,
